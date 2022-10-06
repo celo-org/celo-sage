@@ -1,6 +1,6 @@
 # Sample Tutorial Structure (1)
 
-# Introduction
+## Introduction
 
 The Introduction heading **must** be H1: # Introduction
 
@@ -24,7 +24,7 @@ This section is for you to explain any prior knowledge needed or any existing tu
 - In this tutorial, we're going to build a Voting dApp on Celo so before we proceed further make sure to complete the first tutorial "Connect to Celo using hardhat".
 - Complete the Example Tutorial, first.
 
-# **Requirements**
+# @ **Requirements**
 
 The Requirements heading **must** be H1: # Requirements
 
@@ -37,7 +37,7 @@ Any technology that needs to be installed **prior** to starting the tutorial and
 - We'll need Metamask in this tutorial, install it from [HERE](https://metamask.io/).
 - Make sure to have NodeJS 12.0.1+ version installed.
 
-# Body of the Tutorial
+## Body of the Tutorial
 
 - Please do not use "Body of the Tutorial" as a heading, use your own heading that is relevant to the material. "Getting started" is acceptable if you can't think of anything else 😉
 - Add any text content necessary to guide readers through your tutorial, and ***remember to proofread your content*** for spelling and grammar before you submit your tutorial. [Grammarly](http://grammarly.com) is a good free program that can help you to avoid spelling and grammar problems.
@@ -58,10 +58,13 @@ Points to remember:
         <empty newline>
   - ALL code blocks ***must*** have a syntax highlighting type, use ```text if you are not sure.
   - ```text must be used for terminal output, terminal commands and plaintext.
+
   - ```javascript *or*```js can be used for any JavaScript code.
   - ```typescript or```ts can be used for any TypeScript code.
   - ```jsx is for ReactJS code.
+
   - ```solidity is for Solidity code.
+
   - Use ```rust and```toml when highlighting Rust or TOML syntax.
   - Use ```graphql when highlighting GraphQL syntax.
   - Use ```json when highlighting valid JSON (for invalid JSON examples, use```text instead).
@@ -84,13 +87,13 @@ Make sure to have the `.env` file saved in your project root folder.
 Make sure `NODE_URL` in the `.env` file is correct.
 >
 
-# **Conclusion**
+## **Conclusion**
 
 The Conclusion heading **must** be H1: # Conclusion
 
 This section should summarize what was learned in the tutorial, reinforce key points and also congratulate the learner for completing the tutorial. Use a maximum of 5-6 lines.
 
-# Next Steps *(Optional)*
+## Next Steps *(Optional)*
 
 The Next Steps heading **must** be H1: # Next Steps
 
@@ -104,7 +107,7 @@ The About the Author heading **must** be H1: # About the Author
 
 Keep it short. One or two lines at most. You can include a link to your GitHub profile + Twitter profile.
 
-# **References**
+## **References**
 
 The References heading **must** be H1: # References
 
