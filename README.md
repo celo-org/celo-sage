@@ -19,29 +19,19 @@ The aim of the Celo Sage program is to collaborate with Celo Community and build
 - Write content and get rewards for doing the same.
 - Providing a platform for founders to showcase their projects to the community.
 
-## How to start
+## How to start with Celo Sage
 
-Below is a list of topics we would like to suggest for writing tutorials for Celo. It's just a starting point; we accept ideas outside of this list!
+So you've decided to create content for Celo Sage? We are excited to collaborate with you. Please follow the below steps to get started.
 
-- [ ]  How to bridge your Ethereum DApp to Celo
-- [ ]  How to re-deploy your Ethereum DApp to Celo
-- [ ]  How to run unit-testing for smart contracts  with Truffle
-- [ ]  How to run unit-testing for smart contracts  with Hardhat
-- [ ]  How to mint your own NFT on Celo
-- [ ]  How to mint your own fungible Celo token
-- [ ]  How to create an AMM on Celo
-- [ ]  How to create a DEX on Celo
-- [ ]  Build a decentralized storage system
-- [ ]  Build a decentralized lottery game
-- [ ]  Build a donation dApp on Celo to award your favorite content creator
-- [ ]  How to create a lending market on Celo
-- [ ]  How to create an Uniswap clone on Celo
-- [ ]  How to create an NFT with royalties
-- [ ]  How to build a crowdfunding platform on Celo
-- [ ]  How to create your own DAO on Celo
-- [ ]  How to build a mobile browser interface with Valora using [DappKit](https://docs.celo.org/developer-guide/dappkit) (React native [example](https://docs.celo.org/developer-guide/start/hello-mobile-dapp))
-- [ ]  How to build a messaging/email DApp on Polygon
+1. Start by filling out this [Google form](https://forms.gle/KBDs9kKC5ZzDG9oC9) and explaining your idea.
+2. You will hear from us in 24-48 hours via email, where they will discuss the uniqueness of the idea.
+3. Once we approve the request, you can choose your preferred text editor to start writing the content. Please follow the [Tutorial Structure](./tutorial-structure.MD) and [Contribution Guidelines](./contribution-guidelines.MD) while writing the content.
+4. Fork the [https://github.com/celo-org/celo-sage](https://github.com/celo-org/celo-sage) repo and inside the articles/tutorials directory, create a `.md` file and paste your article/tutorial.
+5. Our editors will review the content ASAP and suggest changes in the same PR.
+6. Once the PR is accepted, you will receive an invite link in your email for [Celo's Hashnode](https://celo.hashnode.dev/) account. You will be added as a contributor to Celo's Hashnode blog, where your content will be published.
 
 [Sample Tutorial Structure (1)](./tutorial-structure.md)
 
 [Contributor Guidelines (1)](./contribution-guidelines.md)
+
+[Content Ideas (1)](./content-ideas.md)
